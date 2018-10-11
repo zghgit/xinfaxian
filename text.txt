@@ -1,0 +1,16 @@
+学习过的新发现(如：网址，暂时学不了的内容)
+echo "# xinfaxian" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zghgit/xinfaxian.git
+git push -u origin master
+
+git remote add origin https://github.com/zghgit/xinfaxian.git
+git push -u origin master
+
+
+git add .
+git commit -m "这里是备注内容"
+git remote add origin https://github.com/zghgit/xinfaxian
+git push -u origin master
